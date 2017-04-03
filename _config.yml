@@ -1,12 +1,12 @@
 # Site Settings
-title: Tara McHenry Acupuncture
-email: psauerbeck@gmail.com
+title: Adam J Gomez
+email: adamjgomez@gmail.com
 description: >
-  Website for Tara McHenry Acupuncture
-baseurl: "/tara-mchenry-acupuncture"
-url: "http://pmsaue0.github.io"
-twitter_username: drink_totemtea
-github_username:  pmsaue0
+  Adam J Gomez Personal Site
+baseurl: "/adamjgomez"
+url: "http://adamjgomez.github.io"
+twitter_username: adamjgomez
+github_username:  adamjgomez
 # Build Settings
 sass:
   sass_dir:
